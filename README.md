@@ -43,7 +43,6 @@ The project was developed to explore:
 * BSSID discovery
 * RSSI / signal-strength monitoring
 * Wi-Fi configuration
-* Web-based setup interface
 * WebSocket client
 * Automatic server communication
 * Persistent configuration
