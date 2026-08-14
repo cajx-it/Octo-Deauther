@@ -321,10 +321,4 @@ Copyright © 2026 Octo Project
 All rights reserved.
 ```
 
----
-
-# Author
-
-**Re4zon**
-
 
