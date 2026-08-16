@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Server Type IOT 2.4 Ghz Wifi Deauther</strong>
+  <strong>Server Type ESP8266 2.4 Ghz Wifi Deauther</strong>
 </p>
 
 <p align="center">
