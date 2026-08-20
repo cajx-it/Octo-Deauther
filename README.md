@@ -1,7 +1,7 @@
 # Octo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cajx-it/DEAUTH_SERVER/main/resources/logo.png" width="250" alt="Octo Logo">
+  <img src="resources/logo.png" width="250" alt="Octo Logo">
 </p>
 
 <p align="center">
